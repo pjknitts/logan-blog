@@ -1,0 +1,28 @@
+h1 {
+  color: #D2691E;
+  text-align: center;
+  font-style: bold;
+  font-family: verdana;
+  font-size: 50px
+}
+h2 {
+  color: #B8860B;
+  text-align: center;
+  font-family: verdana;
+  font-size: 35px;
+}
+ul {
+  font-size: 25px;
+  line-height: 30px;
+}
+li {
+  color: #6495ED;
+  font-style: bold;
+  font-family: verdana;
+  font-size: 20px
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+}
