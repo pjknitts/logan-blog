@@ -1,0 +1,19 @@
+h1 {
+  color: #556B2F;
+  text-align: center;
+  font-family: "lucida sans unicode";
+  font-size: 65px;
+  font-style: bold;
+}
+li {
+  color: #00008B;
+  font-family: "lucida sans unicode";
+  font-size: 25px;
+  font-style: bold;
+}
+p {
+  color: #008B8B;
+  font-family: "lucida sans unicode";
+  font-size: 35px;
+  text-align: center;
+}
